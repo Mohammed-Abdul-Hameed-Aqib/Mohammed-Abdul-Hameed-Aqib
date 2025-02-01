@@ -14,11 +14,11 @@
 
  <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roymachinelearning&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammed-Abdul-Hameed-Aqib&theme=swift" height="180em" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roymachinelearning&theme=swift" height="180em"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Abdul-Hameed-Aqib&theme=swift" height="180em"  />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roymachinelearning&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Abdul-Hameed-Aqib&theme=swift" height="180em" />
 
 </div>
 
@@ -30,12 +30,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=roymachinelearning&theme=swift&row=2&column=3"/></div>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Abdul-Hameed-Aqib&theme=swift&row=2&column=3"/></div>
 
  <div align="center">
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=roymachinelearning&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Mohammed-Abdul-Hameed-Aqib&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </div>
